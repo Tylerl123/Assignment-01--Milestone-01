@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <title> Tyler Logan's Biography </title>
@@ -134,4 +133,5 @@
 
 
 </html>
+
 
